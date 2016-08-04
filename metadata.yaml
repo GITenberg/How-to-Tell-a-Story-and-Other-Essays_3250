@@ -1,0 +1,39 @@
+_repo: How-to-Tell-a-Story-and-Other-Essays_3250
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "How to Tell a Story and Other Essays (1897) is a series of essays by\
+  \ Mark Twain. In them he describes his own writing style, attacks the idiocy of\
+  \ a fellow author, defends the virtue of a dead woman, and tries to protect ordinary\
+  \ citizens from insults by railroad conductors.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3250'
+  wikidata: Q2986173
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Storytelling'
+- !lcsh 'Essays'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: How to tell a story -- The wounded soldier -- The golden arm -- Mental
+  telegraphy again -- The invalid's story.
+title: How to Tell a Story, and Other Essays
+url: http://www.gutenberg.org/ebooks/3250
+wikipedia:
+- https://fr.wikipedia.org/wiki/Comment_raconter_une_histoire
+- https://en.wikipedia.org/wiki/How_to_Tell_a_Story_and_Other_Essays
