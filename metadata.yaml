@@ -1,5 +1,8 @@
 _repo: How-to-Tell-a-Story-and-Other-Essays_3250
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -15,6 +18,8 @@ description: "How to Tell a Story and Other Essays (1897) is a series of essays 
   \ Mark Twain. In them he describes his own writing style, attacks the idiocy of\
   \ a fellow author, defends the virtue of a dead woman, and tries to protect ordinary\
   \ citizens from insults by railroad conductors.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3250#How-to-Tell-a-Story-and-Other-Essays
 gutenberg_issued: '2004-09-19'
 gutenberg_type: Text
 identifiers:
